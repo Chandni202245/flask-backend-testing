@@ -5,15 +5,15 @@ It includes **API Testing, Unit Testing, Integration Testing, Manual Test Cases,
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🟦 **Flask Backend**
-- 🟧 **API Testing** using Pytest + Requests
-- 🟩 **Unit Tests** for backend functions
-- 🟨 **Integration Tests** (user + product flow)
-- 🟥 **Negative Testing** with invalid inputs
-- 📝 **Manual Test Cases** included
-- 📄 File-based mock database (`database.json`)
+-  **Flask Backend**
+-  **API Testing** using Pytest + Requests
+-  **Unit Tests** for backend functions
+-  **Integration Tests** (user + product flow)
+-  **Negative Testing** with invalid inputs
+-  **Manual Test Cases** included
+-  File-based mock database (`database.json`)
 
 ---
 
